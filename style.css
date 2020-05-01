@@ -11,10 +11,7 @@ body {
   margin-top: 25%;
 }
 
-.email-form {
-  padding-bottom: 30px;
-}
-.pwd-form {
+.email-form, .pwd-form{
   padding-bottom: 30px;
 }
 #email-error,#pwd-error{
