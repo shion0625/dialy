@@ -1,1 +1,1 @@
-# dialy
+# diary
