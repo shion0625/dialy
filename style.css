@@ -1,0 +1,23 @@
+
+body {
+  background-image:url("./image/top-background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}
+
+.main {
+  margin-top: 25%;
+}
+
+.email-form {
+  padding-bottom: 30px;
+}
+.pwd-form {
+  padding-bottom: 30px;
+}
+#email-error,#pwd-error{
+  display: none;
+  color: red;
+}
